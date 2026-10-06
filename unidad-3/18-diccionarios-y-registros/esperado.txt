@@ -1,0 +1,2 @@
+{'nombre': 'Sensores', 'unidades': 4}
+['K01', 'K02']

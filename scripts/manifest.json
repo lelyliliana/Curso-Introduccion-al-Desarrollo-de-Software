@@ -1,0 +1,122 @@
+[
+  {
+    "path": "unidad-2/01-valor-posicional",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/02-decimal-y-fracciones",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/03-binario-y-conversion",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/04-octal",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/05-hexadecimal",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/06-aritmetica-binaria",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/07-bits-signo-y-limites",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/08-logica-y-tablas",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/09-leyes-y-simplificacion",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/10-mapas-de-karnaugh",
+    "input": ""
+  },
+  {
+    "path": "unidad-2/11-compuertas-y-circuitos",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/01-analisis-del-problema",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/02-diseno-y-algoritmos",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/04-python-y-ejecucion",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/03-pruebas-depuracion-y-mantenimiento",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/05-variables-y-asignacion",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/06-entrada-y-validacion",
+    "input": "3\n"
+  },
+  {
+    "path": "unidad-3/07-tipos-y-precision",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/08-operadores-y-precedencia",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/09-condicionales",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/10-condicionales-anidados",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/11-while-y-terminacion",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/12-for-y-recorridos",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/13-break-continue-y-anidacion",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/14-funciones-y-contratos",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/15-alcance-y-mutabilidad",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/16-recursion",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/17-listas-y-recorridos",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/18-diccionarios-y-registros",
+    "input": ""
+  },
+  {
+    "path": "unidad-3/19-proyecto-integrador",
+    "input": ""
+  }
+]

@@ -1,0 +1,4 @@
+False
+True
+0.3
+True False

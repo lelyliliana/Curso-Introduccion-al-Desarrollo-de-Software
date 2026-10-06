@@ -1,0 +1,4 @@
+suma: 10001
+resta: 101
+producto: 1000010
+cociente: 11; residuo: 10

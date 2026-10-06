@@ -1,0 +1,4 @@
+K01 | Sensores | 4
+K02 | Cables | 8
+Consulta K01: 4
+Recuperados: 2

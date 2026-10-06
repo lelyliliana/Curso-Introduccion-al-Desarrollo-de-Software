@@ -1,0 +1,3 @@
+K01: Se puede prestar
+K02: Agotado
+K99: No existe

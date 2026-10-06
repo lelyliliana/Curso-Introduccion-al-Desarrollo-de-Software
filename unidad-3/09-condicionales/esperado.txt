@@ -1,0 +1,4 @@
+0: agotado
+1: bajo
+2: bajo
+3: disponible
